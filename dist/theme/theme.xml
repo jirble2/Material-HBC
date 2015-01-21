@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<theme version="1.0">
+    <description>Wii HBC Theme</description>
+    <font_color>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+    </font_color>
+    <progress_gradient>
+        <upper_left>
+            <red>255</red>
+            <green>83</green>
+            <blue>13</blue>
+            <alpha>255</alpha>
+        </upper_left>
+        <upper_right>
+            <red>255</red>
+            <green>83</green>
+            <blue>13</blue>
+            <alpha>255</alpha>
+        </upper_right>
+        <lower_left>
+            <red>255</red>
+            <green>83</green>
+            <blue>13</blue>
+            <alpha>255</alpha>
+        </lower_left>
+        <lower_right>
+            <red>255</red>
+            <green>83</green>
+            <blue>13</blue>
+            <alpha>255</alpha>
+        </lower_right>
+    </progress_gradient>
+</theme>
