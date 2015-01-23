@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <app version="1.0">
-	<name>HBCflat</name>
+	<name>Material HBC</name>
 	<version>1.0</version>
 	<release_date>201501210000</release_date>
 	<coder>jirble2</coder>
-	<short_description>Minimal Flat HBC Theme</short_description>
-	<long_description>A minimal, flat theme for use in the HBC. Load it like any other app to install. Remove the HBC Save File to uninstall the theme. https://github.com/jirble2/Flat-HBC</long_description>
+	<short_description>A minimal, material design-inspired theme.</short_description>
+	<long_description>A minimal, Google Material Design inspired theme for use in the HBC. Load it like any other app to install. Remove the HBC Save File to uninstall the theme. https://github.com/jirble2/Material-HBC</long_description>
 </app>
