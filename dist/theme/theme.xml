@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <theme version="1.0">
-    <description>Wii HBC Theme</description>
-    <font_color>
-        <red>0</red>
-        <green>0</green>
-        <blue>0</blue>
-        <alpha>255</alpha>
-    </font_color>
+    <description>Material HBC Theme</description>
+    	<font target="label,memo,appdesc">
+                <file>Roboto-Regular.ttf</file>
+                <size>16</size>
+                <color>
+                	<red>0</red>
+                	<green>0</green>
+                	<blue>0</blue>
+                	<alpha>255</alpha>
+                </color>
+        </font>
+        <font target="button,button_desel">
+                <file>Roboto-Regular.ttf</file>
+                <size>16</size>
+                <color>
+                	<red>239</red>
+                	<green>239</green>
+                	<blue>239</blue>
+                	<alpha>255</alpha>
+                </color>
+        </font>
+        <font target="dlgtitle,appname">
+                <file>Roboto-Bold.ttf</file>
+                <size>16</size>
+                <color>
+                	<red>0</red>
+                	<green>0</green>
+                	<blue>0</blue>
+                	<alpha>255</alpha>
+                </color>
+        </font>
     <progress_gradient>
         <upper_left>
             <red>255</red>
