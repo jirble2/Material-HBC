@@ -7,6 +7,8 @@
 ---
 
 ## Installation
+You can download the [provided Material-HBC.zip](/Material-HBC.zip) to skip step 1 and 2.  
+To manually put it together:
 1. Compress the contents of "dist/theme/" into theme.zip. Do **not** include the dist/theme/ folder when compressing!
 2. Place your newly created "theme.zip" along with "dist/meta.xml" and "dist/icon.png" into a single folder, with a name of your choice (I'd recommend something along the lines of "Material-HBC").
 3. Place the folder into the apps directory on your SD card, and install the theme like any other HBC application.
@@ -25,7 +27,7 @@ It is also possible to install another theme, as this will overwrite the previou
 ## Licence
 This software may be freely used and redistributed, but note that I am not responsible for any damages this software may cause. While I do not believe this software will brick any Wiis, you use this software at your own risk, and it is your own responsibility to maintain backups of your Wii.
 
-> Copyright 2018 Ellis Clayton
+> Copyright 2015-2018 Ellis Clayton
 > 
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
