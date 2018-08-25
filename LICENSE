@@ -1,4 +1,3 @@
-<!--
 Copyright 2015-2018 Ellis Clayton
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,13 +11,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
--->
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<app version="1.2">
-	<name>Material HBC</name>
-	<version>1.2</version>
-	<release_date>201808230000</release_date>
-	<coder>jirble2</coder>
-	<short_description>A material design HBC theme.</short_description>
-	<long_description>A minimal, Google Material Design inspired theme for use in the HBC. Load it like any other app to install. Remove the HBC Save File to uninstall the theme. https://github.com/ellsclytn/Material-HBC</long_description>
-</app>
